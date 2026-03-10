@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skins>
+ 
+ <skin img="skins/fp_en.jpg" alpha="85" tickerHighlight="20" tickerText="FFFFFF" titleText="FFFFFF" titleText2="FFFFFF" dateText="C3C3C3" dateText2="C3C3C3" selectText="FFFFFF" focusColor="FF0000" >Home</skin>
+</skins>
+
+
+
