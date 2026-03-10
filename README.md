@@ -2,11 +2,12 @@ Information Board
 ------------------
 This is a repo with a partially-fixed Infoboard SWF file that directs to a local installation.   (ensure liboard.swf is alongside data and not inside of it)  
 I currently do not know how to get it to draw from a custom server.    
-font fixes are included, currently embedded fonts do not work, please install NewRodin-JP from your PS3's /dev_flash/ or use an emulated flash  
+font fixes are included (Date font is broken), currently embedded fonts do not work, please install NewRodin-JP from your PS3's /dev_flash/ or use an emulated flash  
+Tested using Ruffle, for now this project is English Only.
 
 Multiple skins are included from,  
 Malaysia - Fat Princess  
-Japan - Default  
+Japan - Japan Default  
 Europe - Default  
 United States - New Store (?)  
 
