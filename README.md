@@ -1,19 +1,19 @@
 Information Board
 ------------------
-This is a repo with a partially-fixed Infoboard SWF file that directs to a local installation. (ensure liboard.swf is alongside data and not inside of it)
-I currently do not know how to get it to draw from a custom server
-font fixes are included, currently embedded fonts do not work, please install NewRodin-JP from your PS3's /dev_flash/ or use an emulated flash
+This is a repo with a partially-fixed Infoboard SWF file that directs to a local installation. (ensure liboard.swf is alongside data and not inside of it)  
+I currently do not know how to get it to draw from a custom server  
+font fixes are included, currently embedded fonts do not work, please install NewRodin-JP from your PS3's /dev_flash/ or use an emulated flash  
 
-Multiple skins are included from,/n
-Malaysia - Fat Princess/n
-Japan - Default/n
-Europe - Default/n
-United States - New Store (?)/n
+Multiple skins are included from,  
+Malaysia - Fat Princess  
+Japan - Default  
+Europe - Default  
+United States - New Store (?)  
 
 The news.xml was taken from the latest US-EN Infoboard and modified with one extra entry.
 
 Findings:
 -
-There is no resolution limit on images
-the date category has no formatting, it can be used as a subtitle
-Infoboard will not load without a skin.xml
+There is no resolution limit on images  
+the date category has no formatting, it can be used as a subtitle  
+Infoboard will not load without a skin.xml  
