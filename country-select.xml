@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<select>
-	<messages>
-		<message lang="en">Latest PLAYSTATION(R)Network News</message>
-	</messages>
-	<countries>
-		<country news_url="https://raw.githubusercontent.com/AX3449/Information-Board/Main/news.xml" skin_url="https://raw.githubusercontent.com/AX3449/Information-Board/Main/skin.xml">UNITED STATES</country>
-	</countries>
-</select>
